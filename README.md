@@ -12,9 +12,10 @@ Dataset is taken from UCI repository and can be find in the link below. However,
 the outputs are also uploaded with the code to make it easier for viewer to understand.
 https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29
 # File Descriptions
-Sentiment_Analysis_Classify - Whole Project Code
-Drug_Train and Drug_Test - Raw form of data taken from UCI and converted into CSV
-Dataset - Combined form of train and test
-Sentiment - MATLAB class that calculates the scores
-Evaluate - Performing evaluation on Classification models
-load_lexicon - Loading the positive and negative words
+Sentiment_Analysis_Classify - Whole Project Code <br />
+Drug_Train and Drug_Test - Raw form of data taken from UCI and converted into CSV <br />
+Dataset - Combined form of train and test <br />
+Sentiment - MATLAB class that calculates the scores <br />
+Evaluate - Performing evaluation on Classification models <br />
+load_lexicon - Loading the positive and negative words <br />
+tkdoc - Provides the sentiment score on execution <br />
